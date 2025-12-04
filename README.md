@@ -39,11 +39,9 @@ B2B SaaS ecosystem for international logistics.
 
 ### 📊 Analytics
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=GomenAmonai&show_icons=true&theme=graywhite&hide_border=true&count_private=true" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GomenAmonai&layout=compact&theme=graywhite&hide_border=true&count_private=true" height="150" alt="languages graph" />
-</div>
+![Stats](https://github-readme-stats.vercel.app/api?username=GomenAmonai&show_icons=true&theme=graywhite&hide_border=true&count_private=true)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GomenAmonai&layout=compact&theme=graywhite&hide_border=true&count_private=true)
 ---
 
 > *"The only ones who should kill, are those who are prepared to be killed."*
